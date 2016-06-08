@@ -1,9 +1,12 @@
 # gulp-server
 Gulp development server quickstart
 
-#Installation 
+#Installation
 ```
 git clone https://github.com/dskrenta/gulp-server
 cd gulp-server
 npm install
 ```
+
+#Usage
+`npm start`
